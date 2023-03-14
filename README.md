@@ -1,2 +1,2 @@
 # House-Rent-Prediction-Using-Machine-Learning
-In this project I have use  various python libraries for visualization and model building for checking which variables are significant to house rent .
+In this project I have check the what are the variables that significant for predicting the house rent using a various python libraries and machine learning.
